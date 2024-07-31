@@ -13,6 +13,7 @@ Zhejiang University
 </div>
 
 ### News
+* `Jul. 31st, 2024`: 🔥 We have released our code. Try it now! Please give us a star! ⭐️⭐️⭐️ 😄
 * Our source code is coming soon. Please stay tuned! ☕️
 
 ## Abstract
