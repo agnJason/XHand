@@ -65,10 +65,13 @@ Try `--cam_id (cam400004)`, `--test_data_name (0002_good_luck)` and `--test_capt
 ## Citation
 If you find our project is useful in your research or applications, please consider giving us a star 🌟 and citing it by the following BibTeX entry.
 ```bibtex
-@inproceedings{gan2024xhand,
-  title={XHand: Real-time Expressive Hand Avatar},
-  author={Gan, Qijun and Zhou, Zijie and Zhu, Jianke},
-  year={2024}
+@misc{gan2024xhandrealtimeexpressivehand,
+      title={XHand: Real-time Expressive Hand Avatar}, 
+      author={Qijun Gan and Zijie Zhou and Jianke Zhu},
+      year={2024},
+      eprint={2407.21002},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.21002}, 
 }
-
 ```
