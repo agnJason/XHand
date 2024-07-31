@@ -1,0 +1,16 @@
+numpy==1.23.0
+tqdm
+pyhocon==0.3.59
+opencv-python
+trimesh
+scikit-image==0.16.2
+plyfile
+smplx
+chumpy
+lpips
+imageio==2.8.0
+imageio-ffmpeg
+Pillow==8.4.0
+matplotlib
+https://github.com/podgorskiy/dnnlib/releases/download/0.0.1/dnnlib-0.0.1-py3-none-any.whl
+git+https://github.com/NVlabs/nvdiffrast
